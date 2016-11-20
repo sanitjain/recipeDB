@@ -2,6 +2,7 @@ const express = require('express');
 const bodyParser= require('body-parser');
 var fs = require('fs');
 var recipes = require('./added_recipes.json');
+const REST_PORT = (process.env.PORT || 5000);
 const app = express();
 
 function isDefined(obj) {
