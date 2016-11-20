@@ -1,0 +1,2019 @@
+{
+  "recipes": [
+    {
+      "ID": "1",
+      "rank": "",
+      "url": "http://www.lovechard.com/recipes/pumpkin-pie-smoothie/",
+      "author": "Mrs. Love Chard",
+      "title": "Pumpkin Pie Smoothie",
+      "meal_type": [
+        "Breakfast"
+      ],
+      "recipe_type": [
+        "Smoothie"
+      ],
+      "picture_url": "http://www.lovechard.com/wp-content/uploads/2015/09/CYMERA_20150924_171702.jpg",
+      "ingredients": [
+        "spinach",
+        "pumpkin",
+        "almond milk",
+        "raisins",
+        "banana",
+        "pecans",
+        "pumpkin spice mix",
+        "flax seed",
+        "vanilla",
+        "ice"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "2",
+      "rank": "",
+      "url": "http://www.lovechard.com/recipes/roasted-red-pepper-mushroom-stew/",
+      "author": "Mrs. Love Chard",
+      "title": "Creamy Roasted Red Pepper + Smokey Mushroom Stew",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Stew"
+      ],
+      "picture_url": "http://www.lovechard.com/wp-content/uploads/2015/12/2015-12-06-14.58.00.jpg",
+      "ingredients": [
+        "red peppers",
+        "baby bella mushrooms",
+        "tomatoes",
+        "pinto beans",
+        "onion",
+        "garlic",
+        "carrots",
+        "celery",
+        "chili powder",
+        "onion powder",
+        "cumin",
+        "smoked paprika",
+        "turmeric",
+        "no-salt seasoning blend",
+        "black pepper",
+        "tahini",
+        "nutritional yeast",
+        "raw cashews",
+        "liquid aminos",
+        "spinach",
+        "baby kale",
+        "and baby swiss chard blend",
+        "vegetable broth",
+        "water"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "3",
+      "rank": "",
+      "url": "http://www.lovechard.com/recipes/roasted-red-pepper-mushroom-stew/",
+      "author": "Mrs. Love Chard",
+      "title": "Creamy Roasted Red Pepper + Smokey Mushroom Stew",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Stew"
+      ],
+      "picture_url": "http://www.lovechard.com/wp-content/uploads/2015/12/2015-12-06-14.58.00.jpg",
+      "ingredients": [
+        "red peppers",
+        "baby bella mushrooms",
+        "tomatoes",
+        "pinto beans",
+        "onion",
+        "garlic",
+        "carrots",
+        "celery",
+        "chili powder",
+        "onion powder",
+        "cumin",
+        "smoked paprika",
+        "turmeric",
+        "no-salt seasoning blend",
+        "black pepper",
+        "tahini",
+        "nutritional yeast",
+        "raw cashews",
+        "liquid aminos",
+        "spinach",
+        "baby kale",
+        "and baby swiss chard blend",
+        "vegetable broth",
+        "water"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "4",
+      "rank": "",
+      "url": "http://www.lovechard.com/recipes/wheat-berry-walnut-taco-meat/",
+      "author": "Mrs. Love Chard",
+      "title": "Wheat Berry + Walnut Taco “Meat”",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Taco",
+        "wraps"
+      ],
+      "picture_url": "http://www.lovechard.com/wp-content/uploads/2015/08/IMG_20150802_163039-1024x1024.jpg",
+      "ingredients": [
+        "wheat berries",
+        "walnuts",
+        "taco seasoning",
+        "garlic",
+        "coconut aminos",
+        "green onion",
+        "water"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "5",
+      "rank": "",
+      "url": "https://thegreenjunkie.wordpress.com/2016/01/27/hot-shot-sauce/",
+      "author": "The Green Junkie",
+      "title": "Hot shot sauce",
+      "meal_type": [
+        "Lunch",
+        "Dinner",
+        "Snacks"
+      ],
+      "recipe_type": [
+        "Sauce"
+      ],
+      "picture_url": "https://thegreenjunkie.files.wordpress.com/2016/01/img_4072.jpg?w=864&h=576",
+      "ingredients": [
+        "hot cherry peppers",
+        "red bell pepper",
+        "vinegar",
+        "salt",
+        "water",
+        "garlic",
+        "lemon juice"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "6",
+      "rank": "",
+      "url": "https://thegreenjunkie.wordpress.com/2016/03/02/oil-free-vegan-spicy-tofu-dressing/",
+      "author": "The Green Junkie",
+      "title": "Oil free vegan spicy tofu dressing",
+      "meal_type": [
+        "Lunch",
+        "Dinner",
+        "Snacks"
+      ],
+      "recipe_type": [
+        "Dressing"
+      ],
+      "picture_url": "https://thegreenjunkie.files.wordpress.com/2016/03/img_4866.jpg?w=2000",
+      "ingredients": [
+        "hot cherry peppers",
+        "red bell pepper",
+        "vinegar",
+        "salt",
+        "water",
+        "garlic",
+        "lemon juice"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "7",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/spiced-sweet-potato-tacos/",
+      "author": "DARSHANA THACKER",
+      "title": "Spiced Sweet Potato Tacos",
+      "meal_type": [
+        "Lunch",
+        "Dinner",
+        "Snacks"
+      ],
+      "recipe_type": [
+        "Taco",
+        "wraps"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/SWEET_POTATO_TACOS_V1-1-small-366x260.jpg",
+      "ingredients": [
+        "sweet potato",
+        "red onion",
+        "garlic",
+        "black beans",
+        "corn",
+        "cumin",
+        "ancho chile",
+        "Sea salt",
+        "corn tortillas",
+        "Hass avocado",
+        "tomatoes",
+        "scallions",
+        "cilantro",
+        "fresh lime"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "8",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/chickpea-chili-baked-potatoes/",
+      "author": "DARSHANA THACKER",
+      "title": "Chickpea Chili on Baked Potatoes",
+      "meal_type": [
+        "Lunch",
+        "Dinner",
+        "Snacks"
+      ],
+      "recipe_type": [
+        "Fritters",
+        "bites",
+        "appetizer"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Chickpea_Chili_Backed_Potato7065-366x260.jpg",
+      "ingredients": [
+        "chickpeas",
+        "russet potatoes",
+        "tomatoes",
+        "red bell pepper",
+        "button mushrooms",
+        "red onion",
+        "garlic",
+        "cumin",
+        "oregano",
+        "celery",
+        "green bell pepper",
+        "corn",
+        "white vinegar",
+        "lemon",
+        "paprika",
+        "chili powder",
+        "cilantro",
+        "sea salt"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "9",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/no-fry-rice/",
+      "author": "BONNY REBECCA",
+      "title": "No-Fry Fried Rice",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Rice"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/No-Fry-Rice-jpeg-366x260.jpg",
+      "ingredients": [
+        "garlic",
+        "ginger",
+        "tamari",
+        "coconut sugar",
+        "water cornstarch",
+        "corn",
+        "carrots",
+        "green onions",
+        "mushroom",
+        "pineapple",
+        "spinach",
+        "red chili",
+        "broccoli",
+        "cilantro",
+        "brown jasmine rice"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "10",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/fava-bean-salad/",
+      "author": "DEL SROUFE",
+      "title": "Fava Bean Salad",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Salad"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Fava-Bean-Salad-HD-1-WP-366x260.jpg",
+      "ingredients": [
+        "fava beans",
+        "tomatoes",
+        "scallions",
+        "cucumber",
+        "cilantro",
+        "jalapeno pepper",
+        "jalapeno",
+        "lemon",
+        "garlic",
+        "cumin",
+        "black pepper"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "11",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/summer-vegetable-soup/",
+      "author": "DEL SROUFE",
+      "title": "Summer Vegetable Soup",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Soup"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Summer-Vegetable-Soup-HD-1-366x260.jpg",
+      "ingredients": [
+        "yellow onion",
+        "garlic",
+        "tomatoes",
+        "zucchinis",
+        "yellow squash",
+        "corn",
+        "Vegetable Stock",
+        "basil",
+        "low-sodium vegetable broth",
+        "lemon",
+        "lemon zest",
+        "black pepper"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "12",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/vegan-no-tuna-salad-sandwich/",
+      "author": "DANA SHULTZ",
+      "title": "“No-Tuna” Salad Sandwich",
+      "meal_type": [
+        "Lunch",
+        "Dinner",
+        "snacks"
+      ],
+      "recipe_type": [
+        "Sandwich"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/30-minute-Chickpea-Sunflower-Salad-Sandwich-Soft-Crunchy-savory-and-SO-simple-vegan-glutenfree-healthy-1-366x260.jpg",
+      "ingredients": [
+        "chickpeas",
+        "tahini",
+        "Dijon",
+        "brown mustard",
+        "maple syrup",
+        "agave nectar",
+        "agave",
+        "red onion",
+        "diced celery",
+        "pickle",
+        "capers",
+        "sea salt",
+        "black pepper",
+        "sunflower seeds",
+        "whole-wheat bread",
+        "Dijon",
+        "brown mustard",
+        "Romaine lettuce",
+        "Tomato",
+        "red onion"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "13",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/apple-walnut-breakfast-bread/",
+      "author": "KATHY FRESTON",
+      "title": "Apple-Walnut Breakfast Bread",
+      "meal_type": [
+        "Breakfast",
+        "Snacks"
+      ],
+      "recipe_type": [
+        "Bread"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/apple-walnut-bread-366x260.png",
+      "ingredients": [
+        "applesauce",
+        "brown sugar",
+        "almond milk",
+        "plant milk",
+        "flax seeds",
+        "all-purpose flour",
+        "baking soda",
+        "baking powder",
+        "cinnamon",
+        "walnuts"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "14",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/healthy-spinach-artichoke-dip/",
+      "author": "JESSICA MEYERS ALTMAN",
+      "title": "Spinach Artichoke Dip",
+      "meal_type": [
+        "Lunch",
+        "Dinner",
+        "Snacks"
+      ],
+      "recipe_type": [
+        "Dip"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Baked-Artichoke-Dip-LR-edit-smaller2.jpg",
+      "ingredients": [
+        "cannellini beans",
+        "garlic",
+        "mustard powder",
+        "nutritional yeast",
+        "lemon juice",
+        "artichoke",
+        "spinach",
+        "plant-based milk",
+        "ground pepper",
+        "black pepper"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "15",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/grilled-veggie-salad/",
+      "author": "JULIE PIATT",
+      "title": "Grilled Veggie Salad",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Salad"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/grilledsalad-WP.jpg",
+      "ingredients": [
+        "corn",
+        "red bell pepper",
+        "bell pepper",
+        "zucchini",
+        "squash",
+        "onion",
+        "dijon",
+        "brown mustard sauce",
+        "mustard sauce",
+        "cayenne",
+        "lettuce",
+        "romaine lettuce",
+        "field lettuce",
+        "dill",
+        "lemon"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "16",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/avocado-white-bean-salad-wraps/",
+      "author": "KRISTY TURNER",
+      "title": "Avocado & White Bean Salad Wraps",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Wraps",
+        "burrito"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Avocado-White-Bean-Salad-Wraps-wp-800x307.jpg",
+      "ingredients": [
+        "northern beans",
+        "beans",
+        "liquid aminos",
+        "tamari",
+        "soy sauce",
+        "white balsamic vinegar",
+        "balsamic vinegar",
+        "avocados",
+        "lime",
+        "parsley",
+        "cilantro",
+        "green chiles",
+        "garlic powder",
+        "paprika",
+        "onion powder",
+        "black pepper",
+        "tortillas",
+        "tomatoes",
+        "spinach"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "25",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/yamadillas-vegan-quesadillas/",
+      "author": "MARY MCDOUGALL",
+      "title": "Yamadillas",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Quesadillas"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Yamadillas-WP-Version.jpg",
+      "ingredients": [
+        "yams",
+        "vegetable broth",
+        "green chiles",
+        "chilies",
+        "green chili",
+        "lime",
+        "chipotle peppers",
+        "cumin",
+        "garlic",
+        "black beans",
+        "tortillas",
+        "salsa",
+        "tomatoes"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "26",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/grilled-portobello-mushrooms/",
+      "author": "DEL SROUFE",
+      "title": "Grilled Portobello Mushrooms",
+      "meal_type": [
+        "Lunch",
+        "Dinner",
+        "snacks"
+      ],
+      "recipe_type": [
+        "Burger"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Portobello-Mushrooms-1-300kb-800x307.jpg",
+      "ingredients": [
+        "soy sauce",
+        "brown rice syrup",
+        "garlic",
+        "ginger",
+        "black pepper",
+        "portobello mushrooms",
+        "mushrooms"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "27",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/cherry-soft-serve-ice-cream/",
+      "author": "SOMER MCCOWAN",
+      "title": "Cherry Soft-Serve Ice Cream",
+      "meal_type": [
+        "dessert"
+      ],
+      "recipe_type": [
+        "ice-cream"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/cherry-garcia-WP1-e1472839899552.jpg",
+      "ingredients": [
+        "bananas",
+        "cherries",
+        "vanilla extract",
+        "almond milk",
+        "vegan chocolate chips",
+        "chocolate chips"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "28",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/easy-overnight-chia-oatmeal/",
+      "author": "JASMINE BRIONES",
+      "title": "Easy Overnight Oats With Chia",
+      "meal_type": [
+        "Breakfast"
+      ],
+      "recipe_type": [
+        "Oats"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/IMG_0189-e1470797045773-366x260.jpeg",
+      "ingredients": [
+        "rolled oats",
+        "oats",
+        "plant milk",
+        "almond milk",
+        "chia",
+        "maple syrup",
+        "chia seeds",
+        "cinnamon",
+        "apple",
+        "banana",
+        "berries",
+        "strawberries",
+        "vanilla extract"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "29",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/chocolate-chip-coconut-pancakes/",
+      "author": "DARSHANA THACKER",
+      "title": "Chocolate Chip Coconut Pancakes",
+      "meal_type": [
+        "Breakfast",
+        "snacks"
+      ],
+      "recipe_type": [
+        "Pancakes"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/CHOC_CHIP_PANCAKES_V2-small-366x260.jpg",
+      "ingredients": [
+        "flaxseeds",
+        "buckwheat flour",
+        "oats",
+        "rolled oats",
+        "old fashioned rolled oats",
+        "coconut flakes",
+        "baking powder",
+        "plant milk",
+        "almond milk",
+        "sea salt",
+        "applesauce",
+        "maple syrup",
+        "vegan mini chocolate chips",
+        "chocolate chips",
+        "vanilla extract",
+        "banana"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "30",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/chinese-noodles-ginger-garlic-sauce/",
+      "author": "DARSHANA THACKER",
+      "title": "Chinese Noodles in Ginger Garlic Sauce",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Noodles"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/CHINESE_NOODLES_V1-small-366x260.jpg",
+      "ingredients": [
+        "lo mein",
+        "chow mein noodles",
+        "noodles",
+        "chow mein",
+        "whole grain noodles",
+        "arrowroot powder",
+        "arrowroot",
+        "soy sauce",
+        "tamari",
+        "brown rice vinegar",
+        "vinegar",
+        "ginger",
+        "garlic",
+        "scallions",
+        "carrot",
+        "broccoli",
+        "bok choy",
+        "cilantro",
+        "cashews"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "31",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/green-bean-mango-salad/",
+      "author": "JESSICA NADEL",
+      "title": "Green Bean and Mango Salad",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "salad"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/GreenBeanandMangoSalad.Greens247.JackieSobon-WP-366x260.jpg",
+      "ingredients": [
+        "green beans",
+        "asian long beans",
+        "french beans",
+        "cilantro",
+        "green onions",
+        "peanuts",
+        "lime juice",
+        "lime",
+        "tamari",
+        "cane sugar",
+        "thai chilli",
+        "chillies",
+        "chillli",
+        "chili"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "32",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/nacho-baked-potato/",
+      "author": "ANDREA DUCLOS",
+      "title": "“Nacho” Baked Potato",
+      "meal_type": [
+        "appetizer",
+        "snacks",
+        "sides"
+      ],
+      "recipe_type": [
+        ""
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Potato-366x260.jpg",
+      "ingredients": [
+        "potato",
+        "nutritional yeast",
+        "black beans",
+        "salsa",
+        "tomatoes",
+        "avocado",
+        "cilantro",
+        "lime"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "33",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/vegan-pizza-recipe-creamed-spinach/",
+      "author": "DEL SROUFE",
+      "title": "Pizza with Creamed Spinach, Sun-Dried Tomatoes, Red Onion, and Olives",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        ""
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/pizza-creamed-spinach-sun-dried-tomatoes.jpg",
+      "ingredients": [
+        "sun-dried tomatoes",
+        "firm tofu",
+        "extra-firm silken tofu",
+        "spinach",
+        "garlic",
+        "dill",
+        "nutritional yeast",
+        "whole grain pizza crust",
+        "olives",
+        "onion"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "34",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/smashed-chickpea-avocado-dip/",
+      "author": "DARSHANA THACKER",
+      "title": "Smashed Chickpea Avocado Dip",
+      "meal_type": [
+        "Sides",
+        "Snacks"
+      ],
+      "recipe_type": [
+        "Dip"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/chickpea_avocado08-wp-366x260.jpg",
+      "ingredients": [
+        "pita breads",
+        "chickpeas",
+        "avocado",
+        "tomatoes",
+        "scallions",
+        "cilantro",
+        "garlic",
+        "jalapeno",
+        "lime",
+        "white pepper"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "35",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/spinach-ranch-dip/",
+      "author": "DARSHANA THACKER",
+      "title": "Spinach Ranch Dip",
+      "meal_type": [
+        "Sides",
+        "Snacks"
+      ],
+      "recipe_type": [
+        "Dip"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/spinach_ranch04-WP-366x260.jpg",
+      "ingredients": [
+        "spinach",
+        "tofu",
+        "onion powder",
+        "garlic powder",
+        "white wine vinegar",
+        "vinegar",
+        "parsley",
+        "dill",
+        "chives",
+        "black pepper"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "36",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/white-bean-hummus-with-fresh-thyme-and-basil/",
+      "author": "DREENA BURTON",
+      "title": "White Bean Hummus with Fresh Thyme and Basil",
+      "meal_type": [
+        "Lunch",
+        "Dinner",
+        "Snacks"
+      ],
+      "recipe_type": [
+        "Dip"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/WhiteBeanHummus-300kb-366x260.jpg",
+      "ingredients": [
+        "cannellini (white kidney) beans",
+        "beans",
+        "lemon",
+        "tahini",
+        "garlic",
+        "red wine vinegar",
+        "dijon mustard",
+        "brown mustard",
+        "thyme",
+        "basil",
+        "water",
+        "black pepper"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "37",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/pumpkincredible-hummus/",
+      "author": "DREENA BURTON",
+      "title": "Pumpkincredible Hummus",
+      "meal_type": [
+        "snacks"
+      ],
+      "recipe_type": [
+        "Dip"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/pumpkinhummus-1500-300kb-366x260.jpg",
+      "ingredients": [
+        "chickpeas",
+        "white beans",
+        "cannellini beans",
+        "beans",
+        "pumpkin",
+        "garlic",
+        "sea salt",
+        "tahini",
+        "cumin",
+        "paprika",
+        "maple syrup",
+        "pumpkin seeds"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "38",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/healthy-homemade-hummus/",
+      "author": "RIP ESSELSTYN",
+      "title": "Healthy Homemade Hummus",
+      "meal_type": [
+        "Snacks"
+      ],
+      "recipe_type": [
+        "Dip"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/homemade-hummus-366x260.jpg",
+      "ingredients": [
+        "Bragg Liquid Aminos",
+        "Liquid Aminos",
+        "chick peas",
+        "cumin",
+        "garlic",
+        "lemon",
+        "water",
+        "vegetable broth"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "39",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/roasted-red-pepper-tapenade-hummus/",
+      "author": "JULIEANNA HEVER, RD",
+      "title": "Roasted Red Pepper Tapenade Hummus",
+      "meal_type": [
+        "Snacks"
+      ],
+      "recipe_type": [
+        "Dip"
+      ],
+      "picture_url": "",
+      "ingredients": [
+        "garbanzo beans",
+        "red peppers",
+        "artichoke",
+        "tahini",
+        "lemon",
+        "tamari",
+        "capers",
+        "garlic",
+        "black pepper",
+        "cayenne pepper",
+        "kalamata olives",
+        "olives"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "40",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/sweet-potato-chili-recipe/",
+      "author": "Sharon Palmer",
+      "title": "Smoky Chili with Sweet Potatoes",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Stew"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Sweet-Potato-Chili-wp1-366x260.jpg",
+      "ingredients": [
+        "red beans",
+        "water",
+        "vegetable broth",
+        "cumin",
+        "liquid smoke",
+        "tomatoes",
+        "sweet potatoes",
+        "yellow onions",
+        "celery",
+        "paprika",
+        "chili powder",
+        "cumin",
+        "liquid smoke",
+        ""
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "41",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/thai-noodle-soup/",
+      "author": "Del Sroufe",
+      "title": "Thai Noodle Soup",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Soup"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/thai-noodle-soup-366x260.jpg",
+      "ingredients": [
+        "shiitake mushrooms",
+        "onion",
+        "carrots",
+        "yellow onion",
+        "onion",
+        "bok choy",
+        "ginger",
+        "garlic",
+        "vegetable stock",
+        "soy sauce",
+        "lime",
+        "brown rice noodles",
+        "serrano chile",
+        "green chilies",
+        "mung bean sprouts",
+        "cilantro",
+        "bean sprouts"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "42",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/tomato-red-pepper-soup/",
+      "author": "Del Sroufe",
+      "title": "Tomato and Red Pepper Soup",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Soup"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Tomato-Red-Bell-Pepper-Soup-WP-366x260.jpg",
+      "ingredients": [
+        "yellow onions",
+        "black pepper",
+        "tomatoes",
+        "red bell peppers",
+        "onions",
+        "garlic",
+        "thyme",
+        "basic",
+        "sea salt-"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "43",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/summer-vegetable-soup/",
+      "author": "Del Sroufe",
+      "title": "Summer Vegetable Soup",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Soup"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Summer-Vegetable-Soup-HD-1-366x260.jpg",
+      "ingredients": [
+        "zucchinis",
+        "onion",
+        "yellow onions",
+        "tomato",
+        "garlic",
+        "squash",
+        "corn",
+        "vegetable stock",
+        "basil",
+        "lemon",
+        "black pepper"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "44",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/creamy-sweet-potato-vegetable-stew/",
+      "author": "Judy Micklewright",
+      "title": "Creamy Sweet Potato and Vegetable Stew",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Stew"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Creamy-Sweet-Potato-Stew-WP-366x260.jpg",
+      "ingredients": [
+        "sweet potato",
+        "onion",
+        "carrot",
+        "zucchini",
+        "white pepper",
+        "red bell pepper",
+        "cauliflower",
+        "green beans",
+        "thyme",
+        "bay leaft",
+        "vegetable broth",
+        "garlic",
+        "black pepper",
+        "potato",
+        "cremini mushrooms",
+        "mushrooms",
+        "cannellini or navy beans",
+        "shallots",
+        "celery",
+        "celery seeds",
+        "vegan Worcestershire sauce",
+        "sage"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "45",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/white-bean-portobello-stew/",
+      "author": "Kristy Turner",
+      "title": "White Bean & Portobello Stew",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Stew"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/White-Bean-and-Portobello-Stew-WP-366x260.jpg",
+      "ingredients": [
+        "leeks",
+        "garlic",
+        "celery",
+        "carrots",
+        "celery rib",
+        "Portobello mushrooms",
+        "liquid aminos",
+        "rosemary",
+        "thyme",
+        "fennel seeds",
+        "sage",
+        "Northern beans",
+        "beans",
+        "kale",
+        "liquid smoke",
+        "pepper",
+        "sea salt",
+        "white miso"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "46",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/seven-bean-soup/",
+      "author": "Victoria Rose",
+      "title": "Seven Bean Soup",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Soup"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/seven-beans-soup-candidchef-366x260.jpg",
+      "ingredients": [
+        "multi-bean soup mix",
+        "cumin",
+        "coriander",
+        "Cayenne pepper",
+        "garlic",
+        "tomato",
+        "scallion",
+        "sea salt"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "47",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/butternut-squash-soup-with-sauteed-green-peas-and-pesto-sauce/",
+      "author": "Darshana Thacker",
+      "title": "Butternut Squash Soup with Sautéed Green Peas and Pesto Sauce",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Soup",
+        "Sauce"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Butternut-Squash-Soup-WP-366x260.jpg",
+      "ingredients": [
+        "butternut squash",
+        "peas",
+        "green peas",
+        "lime",
+        "basil",
+        "pine nuts",
+        "sea salt"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "48",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/lentil-chard-sweet-potato-curry/",
+      "author": "Kristy Turner",
+      "title": "Lentil, Chard & Sweet Potato Curry",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Curry",
+        "Stew"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Lentil-Chard-Sweet-Potato-Curry-wp-366x260.jpg",
+      "ingredients": [
+        "onion",
+        "garlic",
+        "jalapeno",
+        "ginger",
+        "curry powder",
+        "garam masala",
+        "turmeric",
+        "vegetable broth",
+        "turmeric",
+        "sweet potatoes",
+        "yellow lentils",
+        "toor dal",
+        "vegan yogurt",
+        "lime",
+        "Swiss chard",
+        "black salt",
+        "black pepper"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "49",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/creamy-potato-curry/",
+      "author": "Katie Mae",
+      "title": "Creamy Potato Curry",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Curry",
+        "Stew"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Creamy-Potato_Curry-WP-366x260.jpg",
+      "ingredients": [
+        "cashews",
+        "potatoes",
+        "onion",
+        "carrot",
+        "yellow potatoes",
+        "cauliflower",
+        "curry powder",
+        "cumin",
+        "coriander",
+        "kale",
+        "peas",
+        "garbanzo beans",
+        "green peas"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "50",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/cream-of-broccoli-soup/",
+      "author": "Darshana Thacker",
+      "title": "Cream of Broccoli Soup",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Soup"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Cream-of-Broccoli-Soup-WP1-366x260.jpg",
+      "ingredients": [
+        "broccoli",
+        "onion",
+        "potato",
+        "Garlic powder",
+        "black pepper",
+        "dill",
+        "peas",
+        "green peas",
+        "sea salt"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "51",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/tortilla-soup/",
+      "author": "Darshana Thacker",
+      "title": "Tortilla Soup",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Soup"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Tortilla-Soup-WP-version-366x260.jpg",
+      "ingredients": [
+        "corn tortillas",
+        "tomatoes",
+        "red bell peppers",
+        "mushroom",
+        "yellow onion",
+        "onion",
+        "garlic",
+        "chipotle chiles",
+        "cumin",
+        "cilantro",
+        "paprika",
+        "chili powder",
+        "corn",
+        "peas",
+        "green onions",
+        "avocado",
+        "tomatoes",
+        "lemon"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "52",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/broccoli-soup/",
+      "author": "Cathy Fisher",
+      "title": "Broccoli Soup",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Soup"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Broccoli-Soup-WP-version-366x260.jpg",
+      "ingredients": [
+        "potatoes",
+        "onion",
+        "coriander",
+        "granulated onion",
+        "no salt poultry seasoning",
+        "poultry seasoning",
+        "broccoli",
+        "swiss chard"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "53",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/zingy-italian-white-bean-soup/",
+      "author": "Moira Nordholt",
+      "title": "Zingy Italian White Bean Soup",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Soup"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Zingy-Italian-White-Bean-Soup-WP-version-366x260.jpg",
+      "ingredients": [
+        "cannellini beans",
+        "vegetable bouillon",
+        "garlic",
+        "red onion",
+        "celery",
+        "fennel",
+        "zucchini",
+        "spinach",
+        "oregano",
+        "sage",
+        "parsley",
+        "tamari",
+        "sea salt",
+        "lemon",
+        "black pepper"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "54",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/autumn-vegetable-stew/",
+      "author": "Del Sroufe",
+      "title": "Autumn Vegetable Stew",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Stew"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Autumn-Soup-200kb-366x260.jpg",
+      "ingredients": [
+        "onion",
+        "carrot",
+        "celery",
+        "ginger",
+        "sweet paprika",
+        "paprika",
+        "cumin",
+        "coriander",
+        "cinnamon",
+        "vegetable stock",
+        "butternut squash",
+        "vegetable broth",
+        "turnip",
+        "butternut squash",
+        "potato",
+        "tomato",
+        "chickpeas",
+        "mint",
+        "saffron",
+        "cilantro",
+        "black pepper"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "55",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/caldo-verde/",
+      "author": "Jason Wyrick",
+      "title": "Caldo Verde",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Soup",
+        "Stew"
+      ],
+      "picture_url": "Moira Nordholt",
+      "ingredients": [
+        "yellow onion",
+        "onion",
+        "potatoes",
+        "salt",
+        "black pepper",
+        "garlic",
+        "kale",
+        "red beans"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "56",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/adzuki-beans-kabocha-squash/",
+      "author": "Alicia Silverstone",
+      "title": "Adzuki Beans with Kabocha Squash",
+      "meal_type": [
+        "Lunch",
+        "dinner"
+      ],
+      "recipe_type": [
+        "stew",
+        "curry"
+      ],
+      "picture_url": "Moira Nordholt",
+      "ingredients": [
+        "kombu",
+        "adzuki beans",
+        "kabocha squash",
+        "beans",
+        "squash",
+        "soy sauce",
+        "cilantro",
+        "parsley"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "57",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/lentil-vegetable-soup/",
+      "author": "Heather McDougall",
+      "title": "Lentil Vegetable Soup",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "soup"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Lentil-Soup-300kb-366x260.jpg",
+      "ingredients": [
+        "onion",
+        "carrots",
+        "potatoes",
+        "brown lentils",
+        "lentils",
+        "tomatoes",
+        "spinach",
+        "vegetable broth",
+        "pepper",
+        "salt"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "58",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/indian-curry-lentils/",
+      "author": "Victoria Rose",
+      "title": "Indian Curry Lentils",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": ["Soup, Curry, Stew"],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/indianlentils_300kb-366x260.jpg",
+      "ingredients": [
+        "split peas",
+        "split peas",
+        "turmeric",
+        "garlic",
+        "oregano",
+        "corn",
+        "peas",
+        "carrots",
+        "brown rice",
+        "green beans"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "59",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/mexican-rice-soup/",
+      "author": "Heather McDougall",
+      "title": "Mexican Rice Soup",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Soup"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Mexican-Rice-Soup-300kb-366x260.jpg",
+      "ingredients": [
+        "onion",
+        "garlic",
+        "vegetable stock",
+        "vegetable broth",
+        "kidney beans",
+        "black beans",
+        "pinto beans",
+        "brown rice",
+        "chili powder",
+        "tomatoes"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "60",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/yam-chickpea-spinach-curry/",
+      "author": "Veronica Grace",
+      "title": "Yam Chickpea Spinach Curry",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "recipe_type": [
+        "Curry",
+        "Stew"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Yam-Chickpea-Spinach-Curry-300kb-366x260.jpg",
+      "ingredients": [
+        "chickpeas",
+        "onion",
+        "garlic",
+        "ginger",
+        "vegetable broth",
+        "tomatoes",
+        "cumin",
+        "coriander",
+        "turmeric",
+        "sweet potatoes",
+        "yam",
+        "spinach",
+        "garam masala"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "61",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/raw-chocolate-caramel-dip-recipe/",
+      "author": "Darshana Thacker",
+      "title": "Raw Chocolate Caramel Dip",
+      "meal_type": [
+        "Snacks",
+        "Dessert"
+      ],
+      "recipe_type": [
+        "Dip"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/CaramelDip-WP-366x260.jpg",
+      "ingredients": [
+        "dates",
+        "Cashews",
+        "Cacao Powder",
+        "carob Powder",
+        "vanilla extract",
+        "Flaxseed",
+        "vanilla extract",
+        "Fruits",
+        "salt"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "62",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/basic-nut-milk/",
+      "author": "Kris Carr",
+      "title": "Basic Nut Milk",
+      "meal_type": [
+        "Breakfast",
+        "snacks",
+        "Drinks"
+      ],
+      "recipe_type": [
+        "Milk",
+        "condiments",
+        "sauces"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Basic-Nut-Milk-366x260.jpg",
+      "ingredients": [
+        "nuts",
+        "water",
+        "sweetener",
+        "almond",
+        "walnut",
+        ""
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "63",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/almost-instant-peanut-sauce/",
+      "author": "Del Sroufe",
+      "title": "Almost Instant Peanut Sauce",
+      "meal_type": [
+        "snacks"
+      ],
+      "recipe_type": ["Dip, Sauce, Condiment"],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/peanut-sauce-wp-366x260.jpg",
+      "ingredients": [
+        "peanut butter",
+        "soy sauce",
+        "tamari",
+        "rice vinegar",
+        "brown rice syrup",
+        "cayenne pepper",
+        "ginger"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "64",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/vegan-caesar-dressing/",
+      "author": "Dreena Burton",
+      "title": "Cheesy Caesar Dressing",
+      "meal_type": [
+        "lunch",
+        "dinner"
+      ],
+      "recipe_type": [
+        "dressing"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Cheesy-Caesar-Dressing-WP1-366x260.jpg",
+      "ingredients": [
+        "cashews",
+        "nutritional yeast",
+        "chia seeds",
+        "kelp",
+        "capers",
+        "garlic",
+        "plant milk",
+        "nut milk",
+        "maple syrup",
+        "salt",
+        "pepper"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "65",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/cannellini-bean-sauce/",
+      "author": "Ann and Jane Esselstyn",
+      "title": "Cannellini Bean Sauce",
+      "meal_type": [
+        "Snacks",
+        "Breakfast"
+      ],
+      "recipe_type": [
+        "Sauce",
+        "condiments",
+        "Dip"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Cannellini-Bean-Sauce-WP-366x260.jpg",
+      "ingredients": [
+        "cannellini beans",
+        "garlic",
+        "tamari"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "66",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/vanilla-almond-milk-recipe/",
+      "author": "Julie Piatt",
+      "title": "Sweet Vanilla Almond Milk Recipe",
+      "meal_type": [
+        "breakfast",
+        "Snacks",
+        "Dessert"
+      ],
+      "recipe_type": [
+        "Condiment",
+        "Milk"
+      ],
+      "picture_url": "http://www.forksoverknives.com/recipes/vanilla-almond-milk-recipe/",
+      "ingredients": [
+        "almond",
+        "dates",
+        "vanilla bean",
+        "water",
+        "celtic sea salt"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "67",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/vegan-enchilada-sauce/",
+      "author": "Darshana Thacker",
+      "title": "Enchilada Sauce",
+      "meal_type": [
+        "Dinner",
+        "Lunch",
+        "Snacks"
+      ],
+      "recipe_type": ["Sauce, Condiment"],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Enchilada-Sauce-366x260.jpg",
+      "ingredients": [
+        "onion",
+        "yellow onion",
+        "tomato",
+        "tomato paste",
+        "garlic",
+        "cumin",
+        "sweet paprika",
+        "hot paprika",
+        "paprika",
+        "onion powder",
+        "garlic powder",
+        "oregano",
+        "arrowroot powder"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "68",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/magical-applesauce-vinaigrette/",
+      "author": "Dreena Burton",
+      "title": "“Magical” Applesauce Vinaigrette",
+      "meal_type": [
+        "Lunch",
+        "Dinner",
+        "snacks"
+      ],
+      "recipe_type": [
+        "Dressing",
+        "Sauce",
+        "Condiment"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Applesauce-Vinigarette-for-WP-366x260.jpg",
+      "ingredients": [
+        "applesauce",
+        "miso",
+        "apple cider vinegar",
+        "cumin",
+        "cinnamon",
+        "balsamic vinegar",
+        "Dijon Mustard",
+        "maple syrup",
+        "black pepper"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "69",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/tomato-salsa/",
+      "author": "Darshana Thacker",
+      "title": "Tomato Salsa",
+      "meal_type": [
+        "Snacks"
+      ],
+      "recipe_type": [
+        "Dip",
+        "condiment"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Tomato-salsa-with-chips-WP-version-366x260.jpg",
+      "ingredients": [
+        "red chile",
+        "red chillies",
+        "tomato",
+        "onion",
+        "garlic",
+        "cilantro"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "70",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/spiked-sour-cream/",
+      "author": "Del Sroufe",
+      "title": "Spiked Sour Cream",
+      "meal_type": [
+        "Snacks"
+      ],
+      "recipe_type": [
+        "Dip",
+        "Dressing",
+        "Condiment",
+        "Sauce"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Spiked-Sour-Cream-WP-version-366x260.jpg",
+      "ingredients": [
+        "silken tofu",
+        "tofu",
+        "red wine vinegar",
+        "lemon",
+        "lemon juice",
+        "cayenne pepper",
+        "red chili powder"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "71",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/pea-guacamole/",
+      "author": "Mary McDougall",
+      "title": "Pea Guacamole",
+      "meal_type": [
+        "Snacks"
+      ],
+      "recipe_type": [
+        "Dip",
+        "Sauce",
+        "Condiment"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Pea-Guacamole-WP-Version-366x260.jpg",
+      "ingredients": [
+        "peas",
+        "green peas",
+        "garlic",
+        "lime",
+        "tomato",
+        "onion",
+        "cilantro",
+        "salt",
+        "black pepper"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "72",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/dels-basic-barbecue-sauce/",
+      "author": "Del Sroufe",
+      "title": "Del’s Basic Barbecue Sauce",
+      "meal_type": [
+        "Snacks"
+      ],
+      "recipe_type": [
+        "sauce",
+        "Dip",
+        "Condiment"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Easy_Baked_Beans-366x260.jpg",
+      "ingredients": [
+        "onion",
+        "garlic",
+        "tomato sauce",
+        "apple cider vinegar",
+        "soy sauce",
+        "vegan Worcestershire sauce",
+        "yellow mustard",
+        "maple syrup",
+        "molasses",
+        "Black pepper"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "73",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/hot-chile-sauce/",
+      "author": "Darshana Thacker",
+      "title": "Hot Chile Sauce",
+      "meal_type": [
+        "Snacks"
+      ],
+      "recipe_type": [
+        "sauce",
+        "dip",
+        "condiment"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Hot-Chile-Sauce-FOK-Plan-300kb-366x260.jpg",
+      "ingredients": [
+        "red bell pepper",
+        "tomatoes",
+        "onion powder",
+        "garlic powder",
+        "cayenne pepper",
+        "apple cider vinegar",
+        "salt",
+        "arrowroot powder",
+        ""
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "74",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/tomato-sauce/",
+      "author": "Del Sroufe",
+      "title": "Tomato Sauce",
+      "meal_type": [
+        "Snacks"
+      ],
+      "recipe_type": [
+        "sauce",
+        "dip",
+        "condiment"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Tomato-Sauce-1-copy-300kb-366x260.jpg",
+      "ingredients": [
+        "yellow onion",
+        "onion",
+        "oregano",
+        "garlic",
+        "basil",
+        "tomatoes",
+        "salt"
+      ],
+      "nutrition_fact": ""
+    },
+    {
+      "ID": "75",
+      "rank": "",
+      "url": "http://www.forksoverknives.com/recipes/vegan-worcestershire-sauce/",
+      "author": "Lindsay S. Nixon",
+      "title": "Vegan Worcestershire Sauce",
+      "meal_type": [
+        "Snacks"
+      ],
+      "recipe_type": [
+        "Sauce",
+        "Dip",
+        "Condiment"
+      ],
+      "picture_url": "http://8zxa3etwpf-flywheel.netdna-ssl.com/wp-content/uploads/Worcestershire-Sauce-300kb-366x260.jpg",
+      "ingredients": [
+        "apple cider vinegar",
+        "tamari",
+        "brown sugar",
+        "molasses",
+        "mustard sauce",
+        "prepared mustard",
+        "onion powder",
+        "garlic powder",
+        "cinnamon",
+        "ginger",
+        "salt",
+        "cloves",
+        "cayenne pepper",
+        "chili powder"
+      ],
+      "nutrition_fact": ""
+    }
+  ]
+}

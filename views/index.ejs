@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Recipes</title>
+</head>
+<body>
+
+  <form id="recipeForm" action="/addrecipe" method="POST" class="form">
+  <table>
+  <tr>
+    <td><label>Recipe Title</label><td><input type="text" placeholder="Recipe Title" name="title" required></td>
+  </tr>
+  <tr>
+    <td><label>Recipe Link</label><td><input type="url" placeholder="Recipe Link" name="url" required></td>
+  </tr>
+  <tr>
+    <td><label>Author</label></td><td><input type="text" placeholder="Author" name="author" required></td>
+  <tr>
+  <tr>
+    <td><label>Rank</label></td><td><input type="text" placeholder="Rank" name="rank"></td>
+  </table>
+  <table>
+  <tr><td><label>Meal Type</label></td></tr>
+  <tr><td><div class = "checkboxes" id="m_type"> 
+    <label><input type="checkbox" name="meal_type[]" value = "Breakfast" >Breakfast</label>
+    <label><input type="checkbox" name="meal_type[]" value = "Lunch" >Lunch</label>
+    <label><input type="checkbox" name="meal_type[]" value = "Dinner" >Dinner</label>
+  </div>
+  </td></tr>
+  </table>
+
+  <label>Recipe Type</label><br>
+  <div class = "checkboxes" id="r_type">
+    <label><input type="checkbox" name="recipe_type[]" value = "Wrap" >Wrap</label>
+    <label><input type="checkbox" name="recipe_type[]" value = "Pizza" >Pizza</label>
+    <label><input type="checkbox" name="recipe_type[]" value = "Soup" >Soup</label>
+    <label><input type="checkbox" name="recipe_type[]" value = "Salad" >Salad</label>
+    <label><input type="checkbox" name="recipe_type[]" value = "Sauce" >Sauce</label>
+    <label><input type="checkbox" name="recipe_type[]" value = "Dressing" >Dressing</label>
+    <label><input type="checkbox" name="recipe_type[]" value = "Burger" >Burger</label>
+  </div>
+  <br>
+  <label>Picture Link<input type="url" placeholder="Picture URL" name="picture_url" required></label>
+<br>
+
+<div id="ingredientsList">
+  
+  <label>Ingredient 1<input type="text" placeholder="" name="ingredients[]"></label>
+  <button type = "button" onclick = "addIngredient('ingredientsList');" >Add New Ingredient</button>
+  
+</div>
+ 
+<script>
+
+var counter = 1;
+function addIngredient(divName){
+     
+          var newdiv = document.createElement('div');
+          newdiv.innerHTML = "Ingredient " + (counter + 1) + " <input type='text' name='ingredients[]'>";
+          document.getElementById(divName).appendChild(newdiv);
+          counter++;
+ 
+}
+</script>
+  
+  <label>Nutrition Fact<input type="text" placeholder="Nutrition Fact" name="nutrition_fact"></label><br>
+
+  <br><br><button type="submit">Submit</button>
+  <button type="reset" value="Reset">Reset</button>
+
+</form>
+<hr>
+<hr>
+
+  <ul class="recipes">
+  <% for(var i = recipes.length - 1; i>=0; i--) { %>
+    <li class="recipe">
+      <span><%= i+1 %></span>
+      <a href='<%= recipes[i].url %>'><span><%= recipes[i].title %></span></a>
+      <button type = "button">Edit</button>
+      <button type = "button">Delete</button>
+    </li>
+  <% } %>
+  </ul>
+
+  
+</body>
+</html>
