@@ -40,7 +40,7 @@ app.post('/addrecipe', (req, res) => {
     var newRecipes={};
     var newID = 0;
     newRecipes.recipes=[];
-    var jsonFileArr = recipes.recipes; // Get recipes from recipes.json
+    var jsonFileArr = recipes.recipes; // Get recipes
     var newID = getNextId(jsonFileArr); //Find next ID
     var updateData = req.body;
     updateData.ID = newID; //add key ID with value newID
@@ -48,7 +48,7 @@ app.post('/addrecipe', (req, res) => {
     newRecipes.recipes = jsonFileArr;
     var jsonRecipes = JSON.stringify(newRecipes);
 
-    fs.writeFile('added_recipes.json', jsonRecipes, (err)  => {
+    fs.writeFile('added_recipes.json', jsonRecipes, (err)  => { //write all data back to file
         if (err) {
             return console.log(err);
 
@@ -68,6 +68,6 @@ app.post('/addrecipe', (req, res) => {
   
 });
 
-app.listen(3000, function() {
-  console.log('listening on 3000');
+app.listen(REST_PORT, function() {
+  console.log('Server is running');
 });
