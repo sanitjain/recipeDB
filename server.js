@@ -68,6 +68,18 @@ app.post('/addrecipe', (req, res) => {
   
 });
 
+app.post('/download', (req, res) => {
+  
+    //var allRecipes = recipes;
+    var json = JSON.stringify(recipes);
+    var filename = 'recipeDB.json';
+    var mimetype = 'application/json';
+    res.setHeader('Content-Type', mimetype);
+    res.setHeader('Content-disposition','attachment; filename='+filename);
+    res.send(json);
+  
+});
+
 app.listen(REST_PORT, function() {
   console.log('Server is running');
 });
