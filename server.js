@@ -23,60 +23,82 @@ app.set('view engine','ejs');
 
 app.get('/', (req, res) => {
   
-    res.render('index.ejs', {recipes: recipes.recipes});
-  
+    fs.readFile('added_recipes.json', function read(err, data){
+            if(err) {
+                throw err;
+            } else {
+
+                content=JSON.parse(data);
+                res.render('index.ejs', {recipes: content.recipes});
+            }
+        });
 });
 
-app.post('/addrecipe', (req, res) => {
+app.post('/', (req, res) => {
   
-    if(isDefined(req.body.meal_type) && isDefined(req.body.meal_type)){
+    if(isDefined(req.body.meal_type) && isDefined(req.body.recipe_type)){
 
-    function getNextId(obj) {
-        return (Math.max.apply(Math, obj.map(function(o) {
-        return o.ID;
-        })) + 1);
-    }
-    
-    var newRecipes={};
-    var newID = 0;
-    newRecipes.recipes=[];
-    var jsonFileArr = recipes.recipes; // Get recipes
-    var newID = getNextId(jsonFileArr); //Find next ID
-    var updateData = req.body;
-    updateData.ID = newID; //add key ID with value newID
-    jsonFileArr.push(updateData);
-    newRecipes.recipes = jsonFileArr;
-    var jsonRecipes = JSON.stringify(newRecipes);
-
-    fs.writeFile('added_recipes.json', jsonRecipes, (err)  => { //write all data back to file
-        if (err) {
-            return console.log(err);
-
+        function getNextId(obj) {
+            return (Math.max.apply(Math, obj.map(function(o) {
+                return o.ID;
+            })) + 1);
         }
-        console.log("Recipe with ID "+newID+" added to file");
-        //dialog.info("Recipe with ID "+newID+" added to file");
-    });
 
-    //res.send("Recipe with ID "+newID+" added to file");
+        var content;
 
-    res.redirect('back');
+        fs.readFile('added_recipes.json', function read(err, data){
+            if(err) {
+                throw err;
+            } else {
 
-} else {
-    res.send("You need to select at least one meal type or recipe type");
-    res.end();
-}
+                content=JSON.parse(data);
+                writeToFile(content,req.body);
+            }
+        });
+
+        function writeToFile(content,formdata){
+
+            var newRecipes={};
+            newRecipes.recipes=[];
+            var jsonFileArr = content.recipes;
+            formdata.ID = getNextId(jsonFileArr);
+            jsonFileArr.push(formdata);
+            newRecipes.recipes = jsonFileArr;
+            fs.writeFile('added_recipes.json', JSON.stringify(newRecipes), (err)  => { //write all data back to file
+                if (err) {
+                    return console.log(err);
+                }
+                console.log("Recipe with ID "+formdata.ID+" added to file");
+            });
+        }
+
+        res.redirect('/');
+
+        } else {
+            res.send("You need to select at least one meal type or recipe type. Click the browser back button to go back");
+            res.end();
+        }
   
 });
 
 app.post('/download', (req, res) => {
   
     //var allRecipes = recipes;
-    var json = JSON.stringify(recipes);
-    var filename = 'recipeDB.json';
-    var mimetype = 'application/json';
-    res.setHeader('Content-Type', mimetype);
-    res.setHeader('Content-disposition','attachment; filename='+filename);
-    res.send(json);
+
+    fs.readFile('added_recipes.json', function read(err, data){
+            if(err) {
+                throw err;
+            } else {
+
+                var filename = 'recipeDB.json';
+                var mimetype = 'application/json';
+                res.setHeader('Content-Type', mimetype);
+                res.setHeader('Content-disposition','attachment; filename='+filename);
+                res.send(data);
+            }
+    });
+
+    
   
 });
 

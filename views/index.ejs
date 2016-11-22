@@ -6,7 +6,7 @@
 </head>
 <body>
 
-  <form id="recipeForm" action="/addrecipe" method="POST" class="form">
+  <form id="recipeForm" action="/" method="POST" class="form">
   <table>
   <tr>
     <td><label>Recipe Title</label><td><input type="text" placeholder="Recipe Title" name="title" required></td>
@@ -35,6 +35,7 @@
   <div class = "checkboxes" id="r_type">
     <label><input type="checkbox" name="recipe_type[]" value = "Wraps" >Wraps</label>
     <label><input type="checkbox" name="recipe_type[]" value = "Pizzas" >Pizzas</label>
+    <label><input type="checkbox" name="recipe_type[]" value = "Pastas" >Pastas</label>
     <label><input type="checkbox" name="recipe_type[]" value = "Soups" >Soups</label>
     <label><input type="checkbox" name="recipe_type[]" value = "Salads" >Salads</label>
     <label><input type="checkbox" name="recipe_type[]" value = "Dips & Sauces">Dips &amp; Sauces</label>
@@ -43,6 +44,10 @@
     <label><input type="checkbox" name="recipe_type[]" value = "Juices" >Juices</label>
     <label><input type="checkbox" name="recipe_type[]" value = "Smoothies" >Smoothies</label>
     <label><input type="checkbox" name="recipe_type[]" value = "Desserts" >Desserts</label>
+    <label><input type="checkbox" name="recipe_type[]" value = "Breakfasts" >Breakfasts</label>
+    <label><input type="checkbox" name="recipe_type[]" value = "Snacks" >Snacks</label>
+    
+
   </div>
   <br>
   <label>Picture Link<input type="url" placeholder="Picture URL" name="picture_url" required></label>
