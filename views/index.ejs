@@ -58,6 +58,7 @@
   <label>Ingredient 1<input type="text" placeholder="" name="ingredients[]"></label>
   <button type = "button" onclick = "addIngredient('ingredientsList');" >Add New Ingredient</button>
   
+  
 </div>
  
 <script>
@@ -66,11 +67,21 @@ var counter = 1;
 function addIngredient(divName){
      
           var newdiv = document.createElement('div');
-          newdiv.innerHTML = "Ingredient " + (counter + 1) + " <input type='text' name='ingredients[]'>";
+          newdiv.innerHTML = "Ingredient " + (counter + 1) + " <input type='text' name='ingredients[]' id='ing"+(counter + 1)+"'>";
           document.getElementById(divName).appendChild(newdiv);
           counter++;
  
 }
+
+/*function removeIngredient(divName){
+
+
+  var ingredientElement = document.getElementById('ing'+counter);//get ingredient input element
+  var parentDiv =  ingredientElement.parentNode;
+  document.getElementById(divName).removeChild(parentDiv);
+  counter--;
+
+}*/
 </script>
   
   <label>Nutrition Fact<input type="text" placeholder="Nutrition Fact" name="nutrition_fact"></label><br>
